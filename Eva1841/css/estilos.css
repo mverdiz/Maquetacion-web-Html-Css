@@ -1,0 +1,25 @@
+
+p {
+    text-align: justify;
+}
+
+#facebook {
+    color: blue;
+}
+
+#instagrams {
+ color: rgb(228, 54, 83);
+}
+
+#pinteres {
+ color: brown;
+}
+
+#imgcentrar{
+    display: block; 
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+}
